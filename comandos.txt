@@ -1,0 +1,22 @@
+Comandos de Bash
+pwd "Print working directory"  Carpeta donde esta ubicada el foco de la terminal
+touch  Permite crear archivos de cualquier extensión
+mkdir  Permite crear nueva carpeta
+
+ls  "list"  Lista los archivos y carpetas del directorio actual
+  ls -l  Lista los detalles de archivos y carpetas
+  ls -a  Lista todos los archivos y carpetas incluyendo los ocultos
+  ls -la  Conjunto de los dos comandos de arriba
+
+clear  Limpiar la lista de comando
+
+cd +  Nombre de la carpeta "Change directory"  Se utiliza para cambiar de directorio(carpeta)
+  cd ..  Sube un nivel a la carpeta superior, si tienes que subir 3 niveles entonces seria cd ../../../
+  cd /  La diagonal indica la raiz de tu disco duro
+  cd ~  La tilde indica el directorio home del usuario actual
+
+rm  Elimina archivos
+  rmdir  Sirve para eliminar carpetas pero solamente carpetas vacias
+  rm -r  Nos permite eliminar carpetas y su contenido
+
+Flechas de dirección  Historial de comandos ejecutados
