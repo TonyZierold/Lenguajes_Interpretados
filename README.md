@@ -7,3 +7,4 @@ Fabián Antonio Leos Tlatoa
 - [Practica-1](/Practica-1/Antonio-Leos.md)
 
 - [Practica-2](/Practica-2/)
+- [Practica-3](https://github.com/TonyZierold/Practica_3)
