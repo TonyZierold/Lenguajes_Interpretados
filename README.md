@@ -8,3 +8,5 @@ Fabián Antonio Leos Tlatoa
 
 - [Practica-2](/Practica-2/)
 - [Practica-3](https://github.com/TonyZierold/Practica_3)
+- [Practica-4](/Practica-4/)
+- [Practica-5](/Practica-4/practica-5.md)
