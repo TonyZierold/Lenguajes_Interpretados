@@ -10,3 +10,5 @@ Fabián Antonio Leos Tlatoa
 - [Practica-3](https://github.com/TonyZierold/Practica_3)
 - [Practica-4](/Practica-4/)
 - [Practica-5](/Practica-4/practica-5.md)
+- [Practica-6](https://github.com/TonyZierold/Practica-6.git)
+
